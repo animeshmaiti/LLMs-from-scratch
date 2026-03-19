@@ -1,0 +1,7 @@
+tiktoken
+matplotlib
+tensorflow-cpu
+tqdm
+numpy
+pandas
+psutil
